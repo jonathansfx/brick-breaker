@@ -1,0 +1,11 @@
+html {
+    color: red;
+    padding: 0;
+    margin: 0;
+  }
+  canvas {
+    background: #00ff00;
+    background-color: lightgreen;
+    display: block;
+    margin: 0 auto;
+  }
